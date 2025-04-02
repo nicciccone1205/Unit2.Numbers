@@ -71,6 +71,7 @@ class Numbers {
         return numCount
       };
 }
+}
   
   //Prompt the user for a list of integers separated by commas
   const str = prompt("enter some numbers, like this", "1,2,3,3,5,9");
